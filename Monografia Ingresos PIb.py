@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 import numpy as np
+#MONOGRAFIA DEUDA EXTERNA
 # FIGURA 2 
 fig, ax = plt.subplots(2, 4, figsize=(12, 64))
 año1970 = (0.1074, 0.2367, 0.2160, 0.3194, 0.2475)
